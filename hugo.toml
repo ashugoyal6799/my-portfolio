@@ -1,0 +1,16 @@
+baseURL = "https://ashugoyal6799.github.io/my-portfolio/"
+languageCode = "en-us"
+title = "Ashu Goyal"
+theme = "PaperMod"
+
+[params]
+  author = "Ashu Goyal"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blogs"
+    weight = 1
+
