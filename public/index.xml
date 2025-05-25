@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ashu Goyal</title>
+    <link>http://localhost:1313/my-portfolio/</link>
+    <description>Recent content on Ashu Goyal</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/my-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/my-portfolio/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-portfolio/blogs/</guid>
+      <description>&lt;h2 id=&#34;uploading-soon-&#34;&gt;uploading soon &amp;hellip;.&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/my-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-portfolio/contact/</guid>
+      <description>&lt;p&gt;📧 &lt;a href=&#34;mailto:ashugoyal6799@gmail.com&#34;&gt;ashugoyal6799@gmail.com&lt;/a&gt;&lt;br&gt;
+🔗 &lt;a href=&#34;https://linkedin.com/in/ashu-goyal&#34;&gt;LinkedIn&lt;/a&gt;&lt;br&gt;
+💻 &lt;a href=&#34;https://github.com/ashugoyal6799&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Journey</title>
+      <link>http://localhost:1313/my-portfolio/journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-portfolio/journey/</guid>
+      <description>&lt;h1 id=&#34;-my-journey&#34;&gt;🚀 My Journey&lt;/h1&gt;
+&lt;p&gt;Here’s a glimpse into how I’ve grown as an engineer — not just in titles, but in mindset and problem-solving.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-sprinto-2024present&#34;&gt;🧠 Sprinto (2024–Present)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Rebuilding how we handle async work.&lt;/strong&gt;&lt;br&gt;
+Led the adoption of Temporal to rethink long-running backend workflows.&lt;br&gt;
+Created reusable patterns for workflows, improving observability, retry logic, and dev onboarding.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-thena-2024&#34;&gt;🛠️ Thena (2024)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Making Slack and email feel like one system.&lt;/strong&gt;&lt;br&gt;
+Designed a backend that connected email threads with Slack channels in real-time.&lt;br&gt;
+Used WebSockets (Pusher), MongoDB, Redis, and Mailgun — reduced latency and improved reliability.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
