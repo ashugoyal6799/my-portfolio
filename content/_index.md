@@ -2,9 +2,9 @@
 title: "Ashu Goyal"
 ---
 
-# Hi, I’m Ashu Goyal
+# Hi, I’m ...
 
-I’m a software engineer who enjoys building reliable backend systems that support real products and real people.
+Ashu Goyal, I’m a software engineer who enjoys building reliable backend systems that support real products and real people.
 
 Most of my experience has been with early-stage teams, where I’ve worked on async job systems, real-time integrations, and internal tools that reduce manual effort.
 
