@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on Ashu Goyal</title>
+    <link>http://localhost:1313/categories/technology/</link>
+    <description>Recent content in Technology on Ashu Goyal</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dead Code and Sentimental Value: Why We Keep What We Should Delete</title>
+      <link>http://localhost:1313/blogs/dead-code-sentimental-value/</link>
+      <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/dead-code-sentimental-value/</guid>
+      <description>A deep dive into why software teams struggle to delete unnecessary code and how the psychology of sentimental value affects engineering decisions.</description>
+    </item>
+    <item>
+      <title>Can We Spot the Human in a Room Full of Randomness?</title>
+      <link>http://localhost:1313/blogs/spotting-humans-in-randomness/</link>
+      <pubDate>Thu, 19 Dec 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/spotting-humans-in-randomness/</guid>
+      <description>A fascinating thought experiment: can we detect human patterns in what should be pure randomness? Exploring the differences between true randomness and human intuition through simulation.</description>
+    </item>
+    <item>
+      <title>The Magic Behind AI Responses: How Language Models Really Work</title>
+      <link>http://localhost:1313/blogs/how-ai-generates-responses/</link>
+      <pubDate>Thu, 19 Dec 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/how-ai-generates-responses/</guid>
+      <description>Ever wondered what happens when you ask ChatGPT a question? Dive into the fascinating world of how AI language models generate responses through pretraining, fine-tuning, and reinforcement learning.</description>
+    </item>
+  </channel>
+</rss>
