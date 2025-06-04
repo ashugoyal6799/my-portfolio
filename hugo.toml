@@ -15,3 +15,8 @@ theme = "PaperMod"
     url = "/blogs"
     weight = 1
 
+  [[menu.main]]
+    name = "Book a call"
+    url = "https://calendly.com/ashugoyal6799/coffee-chat-your-tech-needs"
+    weight = 2
+
