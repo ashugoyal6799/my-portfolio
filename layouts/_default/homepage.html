@@ -1,0 +1,132 @@
+{{- define "main" }}
+
+<div class="homepage-container">
+  <div class="homepage-content">
+    <div class="image-section">
+      <div class="profile-image-container">
+        <div class="image-wrapper">
+          <img src="/profile.jpg" alt="Ashu Goyal" class="profile-image" />
+        </div>
+      </div>
+    </div>
+    <div class="content-section">
+      {{- if not (.Param "disableAnchoredHeadings") }} {{- partial
+      "anchored_headings.html" .Content -}} {{- else }}{{ .Content }}{{ end }}
+    </div>
+  </div>
+</div>
+
+<style>
+  .homepage-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 0;
+  }
+
+  .homepage-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+    min-height: 80vh;
+  }
+
+  .image-section {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .profile-image-container {
+    text-align: center;
+  }
+
+  .image-wrapper {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border: 4px solid var(--border);
+    display: inline-block;
+  }
+
+  .profile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(1.1) translate(-5%, -5.5%);
+  }
+
+  .content-section {
+    width: 100%;
+    max-width: 800px;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+  .content-section h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+  }
+
+  .content-section h2 {
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    line-height: 1.3;
+  }
+
+  .content-section p {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+
+  .content-section hr {
+    margin: 2rem 0;
+    border: none;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .homepage-content {
+      gap: 2rem;
+    }
+
+    .image-wrapper {
+      width: 200px;
+      height: 200px;
+    }
+
+    .content-section h1 {
+      font-size: 1.8rem;
+      margin-bottom: 1.2rem;
+    }
+
+    .content-section h2 {
+      font-size: 1.4rem;
+      margin-top: 1.8rem;
+      margin-bottom: 0.8rem;
+    }
+
+    .content-section p {
+      margin-bottom: 0.8rem;
+      font-size: 0.95rem;
+    }
+
+    .content-section hr {
+      margin: 1.8rem 0;
+    }
+  }
+
+  /* Dark mode adjustments */
+  .dark .image-wrapper {
+    border-color: var(--border);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  }
+</style>
+
+{{- end }}

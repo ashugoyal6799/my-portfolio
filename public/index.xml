@@ -56,5 +56,19 @@ Created reusable patterns for workflows, improving observability, retry logic, a
 Designed a backend that connected email threads with Slack channels in real-time.&lt;br&gt;
 Used WebSockets (Pusher), MongoDB, Redis, and Mailgun — reduced latency and improved reliability.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;-stacked-pr-sync&#34;&gt;🚀 Stacked PR Sync&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;My first npm package!&lt;/strong&gt; A simple tool to sync stacked pull requests with smart conflict detection.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Published on npm&lt;/strong&gt;: &lt;a href=&#34;https://www.npmjs.com/package/stacked-pr-sync&#34;&gt;stacked-pr-sync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt;: Smart conflict detection, auto-stash, branch status reporting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech&lt;/strong&gt;: Node.js, Git automation, CLI tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Perfect for teams working with stacked pull requests - automatically syncs branches in sequence and stops on conflicts for manual resolution.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

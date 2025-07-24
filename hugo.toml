@@ -9,6 +9,14 @@ theme = "PaperMod"
   ShowReadingTime = true
   mainSections = []
 
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/ashu-goyal"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:ashugoyal6799@gmail.com"
+
 [menu]
   [[menu.main]]
     name = "Blog"
@@ -16,7 +24,12 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "Book a call"
-    url = "https://calendly.com/ashugoyal6799/coffee-chat-your-tech-needs"
+    name = "Open Source"
+    url = "/projects"
     weight = 2
+
+  [[menu.main]]
+    name = "Coffee Chat"
+    url = "https://calendly.com/ashugoyal6799/coffee-chat-your-tech-needs"
+    weight = 3
 
