@@ -37,7 +37,12 @@ theme = "PaperMod"
     weight = 2
 
   [[menu.main]]
+    name = "Side Quests for a Better World"
+    url = "/side-quests"
+    weight = 3
+
+  [[menu.main]]
     name = "Coffee Chat"
     url = "https://calendly.com/ashugoyal6799/coffee-chat-your-tech-needs"
-    weight = 3
+    weight = 4
 

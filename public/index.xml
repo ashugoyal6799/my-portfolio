@@ -70,5 +70,15 @@ Used WebSockets (Pusher), MongoDB, Redis, and Mailgun — reduced latency and im
 &lt;/ul&gt;
 &lt;p&gt;Perfect for teams working with stacked pull requests - automatically syncs branches in sequence and stops on conflicts for manual resolution.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Side Quests for a Better World</title>
+      <link>http://localhost:1313/side-quests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/side-quests/</guid>
+      <description>&lt;h2 id=&#34;dinemidway&#34;&gt;DineMidway&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&#34;https://dinemidway.com&#34;&gt;dinemidway.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Planning dinner with friends often turned into endless back-and-forth — someone suggests a spot, someone else says it&amp;rsquo;s too far, and the group chat drags on.&lt;/p&gt;
+&lt;p&gt;I built DineMidway to make this easier. It finds places that keep travel fair by balancing distance, ratings/reviews, and filters you set. The goal: nobody feels stuck with the longest drive, and plans actually move forward. 🚗✨&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
