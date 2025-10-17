@@ -32,7 +32,7 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "Open Source"
+    name = "Developer Resources"
     url = "/projects"
     weight = 2
 

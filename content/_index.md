@@ -7,15 +7,15 @@ layout: "homepage"
 
 Ashu Goyal, I'm a software engineer who enjoys building reliable backend systems that support real products and real people.
 
-Most of my experience has been with early-stage teams, where I've worked on async job systems, real-time integrations, and internal tools that reduce manual effort.
+Currently working as a Product Engineer at Sprinto, where I focus on platform infrastructure, workflow orchestration, and system reliability. I've worked across early-stage teams and enterprise environments, building async job systems, real-time integrations, and developer tools that reduce manual effort.
 
 I care about writing code that's easy to debug and build on — even if I'm not the one maintaining it.
 
 While I enjoy learning new tools, I tend to stay focused on fundamentals: _clean interfaces, useful logs, and building for failure_.
 
-_Lately, I've been exploring AI and LLMs — focusing more on the fundamentals than the hype around agents and workflows._
+_Lately, I've been working on workflow orchestration with Temporal, building reusable patterns for long-running processes, and creating developer tools that make complex systems easier to debug and maintain._
 
-_I recently published my first npm package: [stacked-pr-sync](https://www.npmjs.com/package/stacked-pr-sync) — a tool for syncing stacked pull requests with smart conflict detection._
+_I've published several developer resources including [stacked-pr-sync](https://www.npmjs.com/package/stacked-pr-sync) for Git workflow automation and production-ready observability templates._
 
 ---
 

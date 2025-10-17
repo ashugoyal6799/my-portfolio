@@ -11,8 +11,9 @@ Here’s a glimpse into how I’ve grown as an engineer — not just in titles, 
 ### 🧠 Sprinto (2024–Present)
 
 **Rebuilding how we handle async work.**  
-Led the adoption of Temporal to rethink long-running backend workflows.  
-Created reusable patterns for workflows, improving observability, retry logic, and dev onboarding.
+Led the adoption of Temporal to rethink long-running backend workflows, reducing error rates from 5-6% to 0.5%.  
+Created reusable patterns for workflows, improving observability, retry logic, and dev onboarding.  
+Architected hybrid task queue system with priority queues and dynamic worker management for 50+ integration providers.
 
 ---
 
@@ -20,7 +21,7 @@ Created reusable patterns for workflows, improving observability, retry logic, a
 
 **Making Slack and email feel like one system.**  
 Designed a backend that connected email threads with Slack channels in real-time.  
-Used WebSockets (Pusher), MongoDB, Redis, and Mailgun — reduced latency and improved reliability.
+Used WebSockets (Pusher), MongoDB, Redis, and Mailgun — reduced latency by 50% and improved reliability.
 
 ---
 

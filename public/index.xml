@@ -39,6 +39,26 @@
 💻 &lt;a href=&#34;https://github.com/ashugoyal6799&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Developer Resources</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;-published-packages&#34;&gt;📦 Published Packages&lt;/h2&gt;
+&lt;h3 id=&#34;-stacked-pr-sync&#34;&gt;🚀 Stacked PR Sync&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Published on npm&lt;/strong&gt;: &lt;a href=&#34;https://www.npmjs.com/package/stacked-pr-sync&#34;&gt;stacked-pr-sync&lt;/a&gt; | &lt;strong&gt;Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ashugoyal6799/stacked-pr-sync&#34;&gt;github.com/ashugoyal6799/stacked-pr-sync&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My first npm package!&lt;/strong&gt; A simple tool to sync stacked pull requests with smart conflict detection.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt;: Smart conflict detection, auto-stash, branch status reporting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech&lt;/strong&gt;: Node.js, Git automation, CLI tools&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Install&lt;/strong&gt;: &lt;code&gt;npm install -g stacked-pr-sync&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Perfect for teams working with stacked pull requests - automatically syncs branches in sequence and stops on conflicts for manual resolution.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-developer-templates--utilities&#34;&gt;🛠️ Developer Templates &amp;amp; Utilities&lt;/h2&gt;
+&lt;h3 id=&#34;-observability-stack&#34;&gt;🔍 Observability Stack&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ashugoyal6799/observability-stack&#34;&gt;github.com/ashugoyal6799/observability-stack&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My Journey</title>
       <link>http://localhost:1313/journey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,27 +68,9 @@
 &lt;hr&gt;
 &lt;h3 id=&#34;-sprinto-2024present&#34;&gt;🧠 Sprinto (2024–Present)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Rebuilding how we handle async work.&lt;/strong&gt;&lt;br&gt;
-Led the adoption of Temporal to rethink long-running backend workflows.&lt;br&gt;
-Created reusable patterns for workflows, improving observability, retry logic, and dev onboarding.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;-thena-2024&#34;&gt;🛠️ Thena (2024)&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Making Slack and email feel like one system.&lt;/strong&gt;&lt;br&gt;
-Designed a backend that connected email threads with Slack channels in real-time.&lt;br&gt;
-Used WebSockets (Pusher), MongoDB, Redis, and Mailgun — reduced latency and improved reliability.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open Source</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;-stacked-pr-sync&#34;&gt;🚀 Stacked PR Sync&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;My first npm package!&lt;/strong&gt; A simple tool to sync stacked pull requests with smart conflict detection.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Published on npm&lt;/strong&gt;: &lt;a href=&#34;https://www.npmjs.com/package/stacked-pr-sync&#34;&gt;stacked-pr-sync&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt;: Smart conflict detection, auto-stash, branch status reporting&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tech&lt;/strong&gt;: Node.js, Git automation, CLI tools&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Perfect for teams working with stacked pull requests - automatically syncs branches in sequence and stops on conflicts for manual resolution.&lt;/p&gt;</description>
+Led the adoption of Temporal to rethink long-running backend workflows, reducing error rates from 5-6% to 0.5%.&lt;br&gt;
+Created reusable patterns for workflows, improving observability, retry logic, and dev onboarding.&lt;br&gt;
+Architected hybrid task queue system with priority queues and dynamic worker management for 50+ integration providers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Side Quests for a Better World</title>
@@ -78,7 +80,11 @@ Used WebSockets (Pusher), MongoDB, Redis, and Mailgun — reduced latency and im
       <description>&lt;h2 id=&#34;dinemidway&#34;&gt;DineMidway&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&#34;https://dinemidway.com&#34;&gt;dinemidway.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Planning dinner with friends often turned into endless back-and-forth — someone suggests a spot, someone else says it&amp;rsquo;s too far, and the group chat drags on.&lt;/p&gt;
-&lt;p&gt;I built DineMidway to make this easier. It finds places that keep travel fair by balancing distance, ratings/reviews, and filters you set. The goal: nobody feels stuck with the longest drive, and plans actually move forward. 🚗✨&lt;/p&gt;</description>
+&lt;p&gt;I built DineMidway to make this easier. It finds places that keep travel fair by balancing distance, ratings/reviews, and filters you set. The goal: nobody feels stuck with the longest drive, and plans actually move forward. 🚗✨&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;kite-portfolio-tracker&#34;&gt;Kite Portfolio Tracker&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ashugoyal6799/kite-portfolio-tracker&#34;&gt;github.com/ashugoyal6799/kite-portfolio-tracker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Manual portfolio tracking was eating up my time — logging into Zerodha, copying data to spreadsheets, calculating P&amp;amp;L, and emailing reports to family.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
