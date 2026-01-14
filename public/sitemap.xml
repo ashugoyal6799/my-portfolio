@@ -38,6 +38,18 @@
     <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2025-05-18T12:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/ai-changing-job-juniors-seniors/</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/career-development/</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogs/spotting-humans-in-randomness/</loc>
     <lastmod>2024-12-19T11:00:00+00:00</lastmod>
   </url><url>
@@ -56,16 +68,10 @@
     <loc>http://localhost:1313/tags/simulation/</loc>
     <lastmod>2024-12-19T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2024-12-19T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/llm/</loc>
     <lastmod>2024-12-19T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2024-12-19T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
     <lastmod>2024-12-19T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/how-ai-generates-responses/</loc>

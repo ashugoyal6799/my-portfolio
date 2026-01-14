@@ -6,8 +6,15 @@
     <description>Recent content in Technology on Ashu Goyal</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2024 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Is Changing the Job: What Juniors and Seniors Should Do Next</title>
+      <link>http://localhost:1313/blogs/ai-changing-job-juniors-seniors/</link>
+      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/ai-changing-job-juniors-seniors/</guid>
+      <description>Practical guidance for junior and senior engineers navigating the AI-transformed software development landscape.</description>
+    </item>
     <item>
       <title>The Magic Behind AI Responses: How Language Models Really Work</title>
       <link>http://localhost:1313/blogs/how-ai-generates-responses/</link>

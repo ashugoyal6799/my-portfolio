@@ -44,6 +44,27 @@
       <description></description>
     </item>
     <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career Development</title>
+      <link>http://localhost:1313/tags/career-development/</link>
+      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/career-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Data Science</title>
       <link>http://localhost:1313/tags/data-science/</link>
       <pubDate>Thu, 19 Dec 2024 11:00:00 +0000</pubDate>
@@ -72,13 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Thu, 19 Dec 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>LLM</title>
       <link>http://localhost:1313/tags/llm/</link>
       <pubDate>Thu, 19 Dec 2024 10:00:00 +0000</pubDate>
@@ -90,13 +104,6 @@
       <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Thu, 19 Dec 2024 10:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
-      <pubDate>Thu, 19 Dec 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
   </channel>
