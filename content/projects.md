@@ -14,7 +14,7 @@ title: "Developer Resources"
 - **Tech**: Node.js, Git automation, CLI tools
 - **Install**: `npm install -g stacked-pr-sync`
 
-Perfect for teams working with stacked pull requests - automatically syncs branches in sequence and stops on conflicts for manual resolution.
+Perfect for teams working with stacked pull requests automatically syncs branches in sequence and stops on conflicts for manual resolution.
 
 ---
 
@@ -26,6 +26,6 @@ Perfect for teams working with stacked pull requests - automatically syncs branc
 
 **Express template** with comprehensive monitoring and logging setup.
 
-Debugging production issues without proper logging is like flying blind. I needed a solution that would give me structured logs, error tracking, and request tracing — all without the complexity of enterprise monitoring tools.
+Debugging production issues without proper logging is like flying blind. I needed a solution that would give me structured logs, error tracking, and request tracing all without the complexity of enterprise monitoring tools.
 
 This Express.js application integrates AWS CloudWatch for centralized logging and Sentry for error tracking. Perfect for side projects that need production-grade observability without the overhead.

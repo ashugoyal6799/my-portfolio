@@ -15,7 +15,7 @@ Imagine two people in separate rooms, each controlling a light bulb. One flips a
 
 ## Simulating True Randomness
 
-To explore this, I ran a simulation of 10 million coin flips, grouping them into 5-bit sequences (like `00000` to `11111`). With 32 possible combinations, each sequence ideally appears about 62,500 times. Interestingly, the counts were close to this target, showing **"frequency stability"** — a hallmark of true randomness over time.
+To explore this, I ran a simulation of 10 million coin flips, grouping them into 5-bit sequences (like `00000` to `11111`). With 32 possible combinations, each sequence ideally appears about 62,500 times. Interestingly, the counts were close to this target, showing **"frequency stability"** a hallmark of true randomness over time.
 
 Humans, on the other hand, often introduce subconscious patterns, disrupting this balance. It's fascinating how intuition strays from actual randomness!
 

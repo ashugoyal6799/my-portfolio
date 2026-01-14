@@ -59,7 +59,7 @@
 &lt;li&gt;&lt;strong&gt;Tech&lt;/strong&gt;: Node.js, Git automation, CLI tools&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Install&lt;/strong&gt;: &lt;code&gt;npm install -g stacked-pr-sync&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Perfect for teams working with stacked pull requests - automatically syncs branches in sequence and stops on conflicts for manual resolution.&lt;/p&gt;
+&lt;p&gt;Perfect for teams working with stacked pull requests automatically syncs branches in sequence and stops on conflicts for manual resolution.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-developer-templates--utilities&#34;&gt;🛠️ Developer Templates &amp;amp; Utilities&lt;/h2&gt;
 &lt;h3 id=&#34;-observability-stack&#34;&gt;🔍 Observability Stack&lt;/h3&gt;
@@ -86,12 +86,12 @@ Architected hybrid task queue system with priority queues and dynamic worker man
       <guid>http://localhost:1313/side-quests/</guid>
       <description>&lt;h2 id=&#34;dinemidway&#34;&gt;DineMidway&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&#34;https://dinemidway.com&#34;&gt;dinemidway.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Planning dinner with friends often turned into endless back-and-forth — someone suggests a spot, someone else says it&amp;rsquo;s too far, and the group chat drags on.&lt;/p&gt;
+&lt;p&gt;Planning dinner with friends often turned into endless back-and-forth someone suggests a spot, someone else says it&amp;rsquo;s too far, and the group chat drags on.&lt;/p&gt;
 &lt;p&gt;I built DineMidway to make this easier. It finds places that keep travel fair by balancing distance, ratings/reviews, and filters you set. The goal: nobody feels stuck with the longest drive, and plans actually move forward. 🚗✨&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;kite-portfolio-tracker&#34;&gt;Kite Portfolio Tracker&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ashugoyal6799/kite-portfolio-tracker&#34;&gt;github.com/ashugoyal6799/kite-portfolio-tracker&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Manual portfolio tracking was eating up my time — logging into Zerodha, copying data to spreadsheets, calculating P&amp;amp;L, and emailing reports to family.&lt;/p&gt;</description>
+&lt;h2 id=&#34;threadly&#34;&gt;Threadly&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&#34;https://phoenixperforma.com/threadly&#34;&gt;phoenixperforma.com/threadly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Finding past conversations in Slack channels with thousands of messages is frustrating endless scrolling, missed context, and incomplete search results. New team members struggle to catch up, and even existing members waste time hunting for discussions.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
