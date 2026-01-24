@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Ashu Goyal"
 theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   author = "Ashu Goyal"
   defaultTheme = "auto"
@@ -42,7 +47,12 @@ theme = "PaperMod"
     weight = 3
 
   [[menu.main]]
+    name = "Bookshelf"
+    url = "/bookshelf"
+    weight = 4
+
+  [[menu.main]]
     name = "Coffee Chat"
     url = "https://calendly.com/ashugoyal6799/coffee-chat-your-tech-needs"
-    weight = 4
+    weight = 5
 
