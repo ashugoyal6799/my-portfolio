@@ -6,8 +6,15 @@
     <description>Recent content in Technology on Ashu Goyal</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Pragmatic Programmer</title>
+      <link>http://localhost:1313/bookshelf/pragmatic-programmer/</link>
+      <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bookshelf/pragmatic-programmer/</guid>
+      <description>A masterclass in thinking like a craftsman, not just a coder.</description>
+    </item>
     <item>
       <title>Dead Code and Sentimental Value: Why We Keep What We Should Delete</title>
       <link>http://localhost:1313/blogs/dead-code-sentimental-value/</link>

@@ -23,3 +23,9 @@ ShowReadingTime: false
 18. <a href="https://app.thestorygraph.com/books/c3f97a4b-6bd9-4c3d-910c-f50e2cec1adf" target="_blank" rel="noopener noreferrer">Node.js Design Patterns</a>
 19. <a href="https://app.thestorygraph.com/books/7b0d2e27-100e-4535-aa83-01b5cbf142c0" target="_blank" rel="noopener noreferrer">Ego is the Enemy</a>
 20. <a href="https://app.thestorygraph.com/books/f8526e72-24af-48f1-a9a6-88029790387e" target="_blank" rel="noopener noreferrer">Building LLM for Production</a>
+
+---
+
+## BOB (Book of Books)
+
+My takeaways, reflections, and learnings from books I've read -- written in my own words. These aren't summaries; they're what stuck with me.

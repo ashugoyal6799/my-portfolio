@@ -6,8 +6,29 @@
     <description>Recent content on Ashu Goyal</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Psychology of Money</title>
+      <link>http://localhost:1313/bookshelf/psychology-of-money/</link>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bookshelf/psychology-of-money/</guid>
+      <description>Timeless lessons on wealth, greed, and happiness -- and why money is more about behaviour than math.</description>
+    </item>
+    <item>
+      <title>The Pragmatic Programmer</title>
+      <link>http://localhost:1313/bookshelf/pragmatic-programmer/</link>
+      <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bookshelf/pragmatic-programmer/</guid>
+      <description>A masterclass in thinking like a craftsman, not just a coder.</description>
+    </item>
+    <item>
+      <title>The Subtle Art of Not Giving a F*ck</title>
+      <link>http://localhost:1313/bookshelf/subtle-art-of-not-giving-a-fck/</link>
+      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bookshelf/subtle-art-of-not-giving-a-fck/</guid>
+      <description>A counterintuitive approach to living a good life -- by choosing what to care about.</description>
+    </item>
     <item>
       <title>Dead Code and Sentimental Value: Why We Keep What We Should Delete</title>
       <link>http://localhost:1313/blogs/dead-code-sentimental-value/</link>
@@ -35,34 +56,6 @@
       <pubDate>Thu, 19 Dec 2024 10:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/how-ai-generates-responses/</guid>
       <description>Ever wondered what happens when you ask ChatGPT a question? Dive into the fascinating world of how AI language models generate responses through pretraining, fine-tuning, and reinforcement learning.</description>
-    </item>
-    <item>
-      <title>Bookshelf</title>
-      <link>http://localhost:1313/bookshelf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookshelf/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/870cc95d-0eca-400d-9036-518faf571062&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Blitzscaling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/19282c72-4398-4da7-a8ba-20c7cfc5b1ab&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Psychology of Money&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/7fb7e0e6-5455-4f3d-a58b-4c4f90dd585d&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;No Rules Rules&lt;/a&gt; &lt;span style=&#34;color: blue !important;&#34;&gt;(Currently Reading)&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/e28948e3-fa80-4f97-8a33-1efa58ae691c&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Pragmatic Programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/0729217a-a051-465d-98bd-8d6d230caeb4&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Art of Reading Minds&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/1d5ae9df-7dae-4f47-bc56-052fef883ecd&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Alchemist&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/38e1e5c7-3823-4f1b-ae6c-12120dc9ee8e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Efficient Node.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Decision Book&lt;/li&gt;
-&lt;li&gt;The Get Things Done &lt;span style=&#34;color: blue;&#34;&gt;(Currently Reading)&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/773768cc-8d1b-4b3c-bbdb-6246bd970b39&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Subtle Art of Not Giving a F*ck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/04756d82-f2a1-4c63-b954-8c63af4f9311&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;How to Win Friends and Influence People&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/035f8078-fa0d-47c2-ae95-2a3f32555e71&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Fifty Challenging Problems in Probability&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/fb603e97-3ce2-45a7-8ef8-0ea455d24ff2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Designing Data-Intensive Applications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/8a9c9a4f-816a-4af8-928f-d4d5e2c03609&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;48 Hour Startup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/cdceba33-d569-4e92-809e-30e449ebf0f6&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Intelligent Investor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/cf449508-eb29-4d56-b2df-c0f1d5c39cb2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Rework&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/736e0cf5-8918-4a87-a557-8905970b5cf2&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;The Power of Subconscious Mind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/c3f97a4b-6bd9-4c3d-910c-f50e2cec1adf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Node.js Design Patterns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/7b0d2e27-100e-4535-aa83-01b5cbf142c0&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ego is the Enemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/f8526e72-24af-48f1-a9a6-88029790387e&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Building LLM for Production&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Contact</title>

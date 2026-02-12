@@ -3,15 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-18T12:00:00+00:00</lastmod>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/best-practices/</loc>
-    <lastmod>2025-05-18T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/behaviour/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2025-05-18T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bookshelf/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/finance/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/non-fiction/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/psychology/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bookshelf/psychology-of-money/</loc>
+    <lastmod>2026-02-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/best-practices/</loc>
+    <lastmod>2026-01-15T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/career/</loc>
+    <lastmod>2026-01-15T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
+    <lastmod>2026-01-15T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2026-01-15T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bookshelf/pragmatic-programmer/</loc>
+    <lastmod>2026-01-15T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mindset/</loc>
+    <lastmod>2025-12-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2025-12-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/self-help/</loc>
+    <lastmod>2025-12-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bookshelf/subtle-art-of-not-giving-a-fck/</loc>
+    <lastmod>2025-12-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2025-05-18T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/code-quality/</loc>
@@ -20,22 +65,13 @@
     <loc>http://localhost:1313/blogs/dead-code-sentimental-value/</loc>
     <lastmod>2025-05-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/psychology/</loc>
-    <lastmod>2025-05-18T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/software-development/</loc>
     <lastmod>2025-05-18T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/software-engineering/</loc>
     <lastmod>2025-05-18T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-18T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/technical-debt/</loc>
-    <lastmod>2025-05-18T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2025-05-18T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
@@ -76,8 +112,6 @@
   </url><url>
     <loc>http://localhost:1313/blogs/how-ai-generates-responses/</loc>
     <lastmod>2024-12-19T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bookshelf/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
